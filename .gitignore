@@ -1,1 +1,6 @@
 venv/
+.vscode
+.streamlit
+firestore-key.json
+z_notes.txt
+key-to-toml.py
